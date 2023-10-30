@@ -1,0 +1,49 @@
+
+.heading{
+    text-align: center;
+}
+.heading h1{
+    font-size: 400%;
+    margin-top: 7px;
+
+}
+.heading p{
+    margin-top: -25px;
+}
+img{
+    padding-top: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+.para{
+    text-align: center;
+    padding-top: 15px;
+}
+.heading h2{
+    margin-top: 45px;
+}
+ul{
+    text-align: justify;
+}
+.info{
+
+    padding-top: 12px;
+
+}
+.center{
+    margin: auto;
+    width: 76%;
+}
+.paraCenter{
+    margin: auto;
+    padding-left: 30px;
+    width: 72%;
+    text-align: center;
+    
+}
+#lastPara{
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
